@@ -1,0 +1,18 @@
+{
+  "theme": "mint",
+  "name": "Docs Lab",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          { "group": "Get started", "pages": ["en/index", "en/quickstart"] },
+          { "group": "Integrations", "pages": [
+              "en/integrations/langchain",
+              "en/integrations/llamaindex"
+          ] }
+        ]
+      }
+    ]
+  }
+}
