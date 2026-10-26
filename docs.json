@@ -16,9 +16,10 @@
           {
             "group": "Integrations",
             "pages": [
-              "en/integrations/pinecone",
+              "en/integrations/haystack",
               "en/integrations/langchain",
-              "en/integrations/llamaindex"
+              "en/integrations/llamaindex",
+	      "en/integrations/pinecone"
             ]
           }
         ]
