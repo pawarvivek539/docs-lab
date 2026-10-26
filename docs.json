@@ -18,7 +18,8 @@
             "pages": [
               "en/integrations/haystack",
               "en/integrations/langchain",
-              "en/integrations/llamaindex"
+              "en/integrations/llamaindex",
+	      "en/integrations/pinecone"
             ]
           }
         ]
