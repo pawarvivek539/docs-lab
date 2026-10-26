@@ -6,11 +6,21 @@
       {
         "tab": "Documentation",
         "groups": [
-          { "group": "Get started", "pages": ["en/index", "en/quickstart"] },
-          { "group": "Integrations", "pages": [
+          {
+            "group": "Get started",
+            "pages": [
+              "en/index",
+              "en/quickstart"
+            ]
+          },
+          {
+            "group": "Integrations",
+            "pages": [
+              "en/integrations/pinecone",
               "en/integrations/langchain",
               "en/integrations/llamaindex"
-          ] }
+            ]
+          }
         ]
       }
     ]
